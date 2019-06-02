@@ -5,7 +5,7 @@
     </div>
     <h1 class="text">Cool Music</h1>
     <!-- <router-link tag="div" class="mine" to="/user"> -->
-      <i class="icon-mine"></i>
+      <!-- <i class="icon-mine"></i> -->
     <!-- </router-link> -->
   </div>
 </template>
